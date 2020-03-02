@@ -4,4 +4,5 @@
     <string name="register">Register</string>
     <string name="email" />
     <string name="password" />
+    <string name="auth" />
 </resources>

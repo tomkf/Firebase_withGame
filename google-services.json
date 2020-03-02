@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "211369557213",
+    "firebase_url": "https://fir-game-e3895.firebaseio.com",
+    "project_id": "fir-game-e3895",
+    "storage_bucket": "fir-game-e3895.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211369557213:android:752fb2a9fa2f9b2569af34",
+        "android_client_info": {
+          "package_name": "com.example.firebasegame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211369557213-31o9k332hhiipfe7tkv511m2f240cdjq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmI8_Rp9gShjqqN4eMtWKVC_l3HlkBJ2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211369557213-31o9k332hhiipfe7tkv511m2f240cdjq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

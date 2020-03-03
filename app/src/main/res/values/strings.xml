@@ -5,4 +5,5 @@
     <string name="email" />
     <string name="password" />
     <string name="auth" />
+    <string name="start">Start</string>
 </resources>

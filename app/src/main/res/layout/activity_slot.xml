@@ -1,6 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout
-    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
     android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/cherries_image_view"
+        android:layout_width="245dp"
+        android:layout_height="116dp"
+        android:layout_marginTop="48dp"
+        android:src="@drawable/cherries"
+        tools:ignore="MissingConstraints"/>
+
+    <ImageView
+        android:id="@+id/body_image_view"
+        android:layout_width="253dp"
+        android:layout_height="92dp"
+        android:layout_marginTop="24dp"
+        android:adjustViewBounds="true"
+        android:src="@drawable/lemon"
+        tools:ignore="MissingConstraints"
+        />
+
+    <ImageView
+        android:id="@+id/footer_image_view"
+        android:layout_width="276dp"
+        android:layout_height="70dp"
+        android:layout_marginTop="24dp"
+        android:adjustViewBounds="true"
+        android:src="@drawable/grapes"
+        tools:ignore="MissingConstraints"
+      />
+
+    <Button
+        android:id="@+id/start_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="36dp"
+        android:text="@string/start"
+        tools:ignore="MissingConstraints" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

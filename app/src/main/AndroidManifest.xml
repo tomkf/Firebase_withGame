@@ -17,6 +17,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".AuthActivity" android:windowSoftInputMode="adjustResize" />
+        <activity android:name=".SlotGameActivity" android:windowSoftInputMode="adjustResize" />
     </application>
 
 </manifest>

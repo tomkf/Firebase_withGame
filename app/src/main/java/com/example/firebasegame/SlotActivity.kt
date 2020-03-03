@@ -8,10 +8,11 @@ import com.google.firebase.auth.FirebaseAuth
 import kotlinx.android.synthetic.main.activity_slotgame.*
 
 
-class SlotGameActivity: AppCompatActivity() {
+class SlotActivity: AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
-//   setContentView()
+/* setContentView(R.layout.) */
+//        setContentView(R.layout.)
     }
 }
